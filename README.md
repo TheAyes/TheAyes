@@ -1,6 +1,7 @@
 
 
 
+<div style="text-align: center">
 
 # 💫 An uprising Web Developer
 ( Yea that's me! )
@@ -40,3 +41,5 @@ full-time web developer don't hesitate to hit me up
 [![](https://visitcount.itsvg.in/api?id=TheAyes&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
