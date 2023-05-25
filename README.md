@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center">
 
 # 💫 An uprising Web Developer
 
@@ -33,11 +33,11 @@ full-time web developer don't hesitate to hit me up
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 12px">
-    <img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-stats.vercel.app/api?username=TheAyes&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Github Stats"/>
-    <img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAyes&theme=dark&hide_border=true" alt="Github Contributions">
-    <img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyes&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most used languages">
-</div>
+
+<img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-stats.vercel.app/api?username=TheAyes&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Github Stats"/>
+<img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAyes&theme=dark&hide_border=true" alt="Github Contributions">
+<img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyes&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most used languages">
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheAyes&theme=darkhub&row=1&column=5&no-frame=true&no-bg=true&margin-w=4)
