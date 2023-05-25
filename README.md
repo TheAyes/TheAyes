@@ -34,9 +34,9 @@ full-time web developer don't hesitate to hit me up
 # 📊 GitHub Stats:
 
 
-<img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-stats.vercel.app/api?username=TheAyes&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Github Stats"/>
-<img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAyes&theme=dark&hide_border=true" alt="Github Contributions">
-<img style="display: block; width: 100%; max-width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyes&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most used languages">
+<img style="display: block; width: 70%; max-width: 500px" src="https://github-readme-stats.vercel.app/api?username=TheAyes&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Github Stats"/>
+<img style="display: block; width: 70%; max-width: 500px" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAyes&theme=dark&hide_border=true" alt="Github Contributions">
+<img style="display: block; width: 70%; max-width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyes&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most used languages">
 
 
 ## 🏆 GitHub Trophies
