@@ -1,10 +1,4 @@
-<div 
-    style="
-        text-align: center;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-">
+<div style="text-align: center;">
 
 # 💫 An uprising Web Developer
 
