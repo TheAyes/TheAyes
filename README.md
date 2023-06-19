@@ -15,8 +15,8 @@ People can sign up for your appointments and un-sign if they have to, so you alw
 who's not.
 
 Owner of:
-  - [Flux SSE](https://www.npmjs.com/package/flux-sse)
-  - [JWT Authorize](https://www.npmjs.com/package/jwt-authorize)
+  - ![npm](https://img.shields.io/npm/dw/flux-sse?style=for-the-badge&label=flux-sse&color=blue&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fflux-sse)
+  - ![npm](https://img.shields.io/npm/dw/jwt-authorize?style=for-the-badge&label=jwt-authorize&color=blue&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fjwt-authorize)
 
 Oh, I also sometimes do music but haven't really been posting it! 8+
 years of FL Studio experience here~
