@@ -14,6 +14,10 @@ the sizes of 5-15 people.
 People can sign up for your appointments and un-sign if they have to, so you always know who's going to fill a place and
 who's not.
 
+Owner of:
+  - [Flux SSE](https://www.npmjs.com/package/flux-sse)
+  - [JWT Authorize](https://www.npmjs.com/package/jwt-authorize)
+
 Oh, I also sometimes do music but haven't really been posting it! 8+
 years of FL Studio experience here~
 
