@@ -1,28 +1,24 @@
 <div style="text-align: center; display: flex; flex-direction: column; align-items: center">
 
-# 💫 An uprising Web Developer
+# 💫 A Web and fulltime Application Developer
 
-( Yea that's me! )
+( I am free of any intention to support internet explorer in any way! )
 
 ### Hey!
 
-I'm Ayes, an web-developer whose dream it is to
-once be a full-time fullstack-developer for a company, either big or small.
+I'm Ayes, a web-developer/application-developer whose dream it is to
+build the greatest self mainting code.
 
-Currently working on an app called Calendarium which is supposed to be used as an appointment planner for groups with
-the sizes of 5-15 people.
-People can sign up for your appointments and un-sign if they have to, so you always know who's going to fill a place and
-who's not.
+Currently working on an app called vault-of-ayes which is supposed to be a website using itself as an example for various code practices. It should also utilize a selfmade CLI.
 
 Owner of:
   - [![npm](https://img.shields.io/npm/dw/flux-sse?style=for-the-badge&label=flux-sse&color=blue)](https://www.npmjs.com/package/flux-sse)
   - [![npm](https://img.shields.io/npm/dw/jwt-authorize?style=for-the-badge&label=jwt-authorize&color=blue)](https://www.npmjs.com/package/jwt-authorize)
 
 Oh, I also sometimes do music but haven't really been posting it! 8+
-years of FL Studio experience here~
+years of experience here~
 
-Anyway! If you would like to support me on my journey to become a
-full-time web developer don't hesitate to hit me up
+Anyway! If you would like to support me on my journey don't hesitate to hit me up!
 :D
 
 #### Greetings Ayes ~
